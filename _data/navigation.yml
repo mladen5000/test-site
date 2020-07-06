@@ -1,0 +1,30 @@
+# Site navigation links
+
+
+- title: About
+  url: 
+  image: microbiome.jpg
+
+- title: Team
+  url: /team/
+  image: labphoto2.JPG
+
+- title: Research
+  url: /research/
+  image: research.jpeg
+
+
+- title: Software
+  url: /software/
+  image: software.jpg
+
+
+- title: Publications
+  url: /publications/
+  image: pub2.jpg
+  
+  
+- title: News
+  url: /news/  
+  image: news.jpeg
+
